@@ -1,0 +1,16 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                   http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+    <include file="changeset/24.11.09/create-table-event_type.sql" author="Pavel Biksaliev"
+             relativeToChangelogFile="true"/>
+    <include file="changeset/24.11.09/create-table-entity_type.sql" author="Pavel Biksaliev"
+             relativeToChangelogFile="true"/>
+    <include file="changeset/24.11.09/create-table-source_type.sql" author="Pavel Biksaliev"
+             relativeToChangelogFile="true"/>
+    <include file="changeset/24.11.09/create-table-event_source.sql" author="Pavel Biksaliev"
+             relativeToChangelogFile="true"/>
+    <include file="changeset/24.11.09/create-table-audit_log.sql" author="Pavel Biksaliev"
+             relativeToChangelogFile="true"/>
+</databaseChangeLog>

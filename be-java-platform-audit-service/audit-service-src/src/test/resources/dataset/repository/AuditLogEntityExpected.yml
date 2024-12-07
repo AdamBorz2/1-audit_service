@@ -1,0 +1,11 @@
+audit_log:
+  - id: 445e6789-e23b-56d7-a789-426614174444
+    event_date: 2024-10-01T10:15:30
+    create_date: 2024-10-01T10:15:30
+    event_type: 123e4567-e89b-12d3-a456-426614174000
+    user_id: 987e6543-e21b-45d6-b123-456789abcdef
+    entity_type: 234e5678-e12b-34d5-a678-426614174001
+    entity_id: "entity-123"
+    event_source: 345e6789-e23b-56d7-a789-426614174002
+    event_data: "{\"name\": \"test\"}"
+    delete_date: null

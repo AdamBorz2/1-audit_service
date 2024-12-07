@@ -1,0 +1,5 @@
+source_type:
+  - id: 245e6789-e23b-56d7-a789-426614174000
+    name: "MANUAL"
+    description: "source_type_example_description"
+    delete_date: null

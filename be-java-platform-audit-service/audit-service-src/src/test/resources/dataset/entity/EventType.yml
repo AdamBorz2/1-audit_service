@@ -1,0 +1,5 @@
+event_type:
+  - id: 123e4567-e89b-12d3-a456-426614174000
+    name: "CREATE"
+    description: "event_type_example_description"
+    delete_date: "2023-10-01 10:15:30"

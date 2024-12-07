@@ -1,0 +1,5 @@
+event_source:
+  - id: 345e6789-e23b-56d7-a789-426614174002
+    source_type: 245e6789-e23b-56d7-a789-426614174000
+    value: "event_source_example_value"
+    delete_date: null
